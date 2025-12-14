@@ -1,53 +1,54 @@
-# 👋 Hi, I'm Alexis
+#  Hi, I'm Alexis Diaz 👋 
 
 💻 **Software Developer | API Integrations | Web & Automation**
 
-I'm a programmer focused on **web development**, **API/SDK integrations**, and **automation projects**. I enjoy building clean, efficient solutions and learning new technologies step by step.
+I'm a mechatronic engineer focused on **software development**, **API/SDK integrations**, and **automation projects**. I enjoy building clean, efficient solutions and learning new technologies step by step.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🔧 Software developer working on **API integrations** and system interoperability
-* 🌐 Migrating legacy PHP projects to **modern Next.js architectures**
-* 🧠 Interested in **automation**, **IoT**, and **AI-assisted solutions**
-* 📚 Constant learner (currently sharpening backend & embedded skills)
+* Software developer working on **API integrations** and system interoperability
+* Migrating legacy PHP projects to **modern Next.js architectures**
+* Interested in **automation**, **IoT**, and **AI-assisted solutions**
+* Constant learner (currently sharpening backend & embedded skills)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 * JavaScript / TypeScript
 * PHP
 * C / C++
 * Python
 
-### 🌐 Web & Backend
+### Web & Backend
 
 * Next.js
 * Node.js
 * Strapi (Headless CMS)
-* REST APIs
-* MySQL
+* REST APIs (Flask, fastapi)
+* MySQL, sql and mongodb 
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
 * Git & GitHub
 * Postman
 * Linux
-* Docker (basic)
+* Docker
+* kubernets
 
-### 🤖 Automation / Embedded
+### Automation / Embedded
 
 * PLC Siemens S7-1200
 * HMI systems
 * ESP32 (ESP-IDF – learning)
-
+* Robotics knowledge
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 API Integration Platform
 
@@ -85,9 +86,9 @@ I'm a programmer focused on **web development**, **API/SDK integrations**, and *
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add your link)*
-* 📧 Email: *(optional)*
+* 💼 LinkedIn: *[(add your link)](https://www.linkedin.com/in/alexis-abelardo-diaz-huaringa-10b05a188/)*
+* 📧 Email: *alexis.diaz.h@uni.pe*
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
+*Feel free to explore my repositories and reach out if you'd like to collaborate!*

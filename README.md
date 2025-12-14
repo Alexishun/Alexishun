@@ -78,9 +78,9 @@ I'm a mechatronic engineer focused on **software development**, **API/SDK integr
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexishun\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexishun\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -94,10 +94,6 @@ I'm a mechatronic engineer focused on **software development**, **API/SDK integr
     <a href="mailto:alexis.diaz.h@uni.pe" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
     
-<p align="center">
-    <a href="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab" target="_blank"><img alt="Python" src="https://mybinder.org/badge_logo.svg"></a>
-<!--https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master-->
-</p>
 ---
 
 *Feel free to explore my repositories and reach out if you'd like to collaborate!*

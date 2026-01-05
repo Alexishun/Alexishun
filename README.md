@@ -20,8 +20,8 @@ I'm a mechatronic engineer focused on **software development**, **API/SDK integr
 ### Languages
 
 * JavaScript / TypeScript
-* PHP
-* C / C++
+* Matlab
+* C++
 * Python
 
 ### Web & Backend
@@ -38,42 +38,11 @@ I'm a mechatronic engineer focused on **software development**, **API/SDK integr
 * Postman
 * Linux
 * Docker
-* kubernets
 
 ### Automation / Embedded
 
-* PLC Siemens S7-1200
-* HMI systems
 * ESP32 (ESP-IDF – learning)
 * Robotics knowledge
----
-
-## Featured Projects
-
-### 🔹 API Integration Platform
-
-> Integration of external APIs and SDKs for enterprise solutions
-
-* Secure authentication
-* Data normalization
-* Error handling & logging
-
-### 🔹 Smart Automation System
-
-> Automated bottling station for small producers
-
-* PLC-based control
-* Pneumatic actuators & sensors
-* Industrial safety standards
-
-### 🔹 Web Migration Project
-
-> Legacy PHP → Next.js + Strapi
-
-* Modern frontend architecture
-* Headless CMS backend
-* Improved performance & scalability
-
 ---
 
 ## 📊 GitHub Stats

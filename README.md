@@ -44,14 +44,14 @@ I'm a mechatronic engineer focused on **software development**, **API/SDK integr
 * ESP32 (ESP-IDF – learning)
 * Robotics knowledge
 ---
-
-## 📊 GitHub Stats
+<!--
+--- ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexishun&show_icons=true&theme=highcontrast&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexishun\&layout=compact\&theme=tokyonight)
 
----
+-->
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>

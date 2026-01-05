@@ -47,7 +47,7 @@ I'm a mechatronic engineer focused on **software development**, **API/SDK integr
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexishun\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexishun&show_icons=true&theme=highcontrast&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexishun\&layout=compact\&theme=tokyonight)
 
